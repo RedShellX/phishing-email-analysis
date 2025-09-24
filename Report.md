@@ -14,7 +14,7 @@
 - Email claims to be from Microsoft but domain is **msupdate.net**, not microsoft.com.
 - This indicates possible spoofing.
 
-📸 *[Insert Screenshot: spoofed-email.png]*
+![Phishing Email Screenshot](./screenshots/spoofed-email.png)
 
 ---
 
