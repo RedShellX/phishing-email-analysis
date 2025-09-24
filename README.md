@@ -1,4 +1,4 @@
-# Phishing Email Analysis - Cyber Security Internship Task
+# Phishing Email Analysis
 
 ## 📌 Task Objective
 Analyze a phishing email sample and identify suspicious indicators such as:
