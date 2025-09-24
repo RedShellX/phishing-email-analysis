@@ -24,7 +24,6 @@
   - "Please follow these steps."
 - Uses **fear tactics** to force quick action.
 
-📸 *[Insert Screenshot: body-text.png]*
 
 ---
 
@@ -32,7 +31,6 @@
 - Displayed links: "Reset your password", "Review your security info".
 - Actual destination likely differs (needs header/link inspection).
 
-📸 *[Insert Screenshot: suspicious-link.png]*
 
 ---
 
@@ -40,8 +38,6 @@
 - Expected From: *@microsoft.com*
 - Actual From: *@msupdate.net*
 - SPF/DKIM results would likely fail on header analysis.
-
-📸 *[Insert Screenshot: header-analysis.png]*
 
 ---
 
